@@ -1,3 +1,9 @@
 ## info ##
 
 Server using express and graphql
+
+##setup##
+
+npm install
+npm run json:server
+node server.js
